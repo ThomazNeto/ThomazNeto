@@ -3,7 +3,7 @@
 
 🏆 *Profissional Certificado Databricks*
 
-<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/125134719" alt="Databricks Certified Spark Developer" width="155"/> <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/157011932" alt="Databricks Certified Data Engineer Professional" width="170"/>
+<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/125134719" alt="Databricks Certified Spark Developer" width="155"/> <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/157011932" alt="Databricks Certified Data Engineer Professional" width="160"/>
 
 ###  Todas as certificações 
 [Credly](https://www.credly.com/users/thomaz-antonio-rossito-neto/badges)
