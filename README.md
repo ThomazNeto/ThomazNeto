@@ -1,6 +1,13 @@
 ## Olá, seja bem vindo!!!
 # 😀 Thomaz Antonio Rossito Neto 😀
 
+🏆 *Profissional Certificado Databricks*
+
+<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/125134719" alt="Databricks Certified Spark Developer" width="155"/>
+<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/157011932" alt="Databricks Certified Data Engineer Professional" width="170"/>
+
+[Todas certificações](https://credentials.databricks.com/profile/thomazantoniorossitoneto39867/wallet)
+
 
 Profissional com mais de 12 anos de experiência no ramo de TI, sendo os últimos 5 anos trabalhando como Engenheiro, Arquiteto e Liderança técnica em Dados.
 
